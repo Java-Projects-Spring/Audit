@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Audit-Authorization
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ARINDAM
+Implementation-Vendor-Id: com.mfpe.pod1cohort12
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://spring.io/projects/spring-boot/Audit-Autho
+ rization
+Created-By: Maven Integration for Eclipse
+
